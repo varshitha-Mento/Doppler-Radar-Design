@@ -1,0 +1,40 @@
+<ADSWorkspace Revision="6" Version="100">
+    <Workspace Name="">
+        <LibraryDefs Name="lib.defs" />
+        <ConfigFile Name="de_sim.cfg" />
+        <ConfigFile Name="hpeesofsim.cfg" />
+        <Data_Display Name="cell_1.dds" />
+        <Log Name="netlist.log" />
+        <Log Name="search_history.log" />
+        <Preferences Name="ads_datacmps_lay.prf" />
+        <Preferences Name="HMC849_SPDT_lib_lay.prf" />
+        <Preferences Name="layout.prf" />
+        <Preferences Name="schematic.prf" />
+        <Dataset Name="cell_1.ds" />
+        <Data_Files Name="cell_1.ds" />
+        <Data_Files Name="cell_1_data\logFile.txt" />
+        <Library Name="ads_standard_layers" />
+        <Library Name="ads_schematic_layers" />
+        <Library Name="empro_standard_layers" />
+        <Library Name="ads_builtin" />
+        <Library Name="ads_standard_layers_ic" />
+        <Library Name="ads_schematic_layers_ic" />
+        <Library Name="ads_schematic_ports_ic" />
+        <Library Name="ads_rflib" />
+        <Library Name="ads_sources" />
+        <Library Name="ads_simulation" />
+        <Library Name="ads_tlines" />
+        <Library Name="ads_bondwires" />
+        <Library Name="ads_datacmps" />
+        <Library Name="ads_behavioral" />
+        <Library Name="ads_textfonts" />
+        <Library Name="ads_common_cmps" />
+        <Library Name="ads_designs" />
+        <Library Name="ads_pelib" />
+        <Library Name="HMC849_SPDT_lib" />
+        <Cell Name="HMC849_SPDT_lib:cell_1" />
+        <ConfigFile Name="dds.cfg" />
+        <Cell Name="HMC849_SPDT_lib:HM849ALPCE" />
+        <Cell Name="HMC849_SPDT_lib:SCHEMATIC" />
+    </Workspace>
+</ADSWorkspace>
